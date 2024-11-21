@@ -7,4 +7,6 @@ const FavouriteButton = ({favourite, toggleFavourite, band_name}) => {
   )
 }
 
+
 export default FavouriteButton;
+
